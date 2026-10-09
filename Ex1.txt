@@ -1,9 +1,4 @@
-thiếu bài thực hành của stage 3
-touch tạo nhiều file
-touch file_{1..20}.txt
-
-xóa file 
-rm -r*	
+	
 BÀI 1: TỐI ƯU HÓA QUY TRÌNH KHỞI TẠO HẠ TẦNG SMART-FARM QUẢ POWERSHELL
 PHẦN 1: PHÂN TÍCH LỖI SAI VÀ NGUYÊN NHÂN
 1. Lỗi 1: Thao tác với tên thư mục chứa khoảng trắng (Lỗi ở lệnh 1 và 2)
